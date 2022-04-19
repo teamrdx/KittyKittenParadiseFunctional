@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.tittle {
+  font-size: 3rem;
+  color: #ece9e6; /* fallback for old browsers */
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Fontdiner Swanky", cursive;
+  margin-bottom: 0;
+}

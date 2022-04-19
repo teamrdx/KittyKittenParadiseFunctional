@@ -1,0 +1,17 @@
+.search-box {
+  margin: 1.5rem auto;
+  height: 3rem;
+  width: 30rem;
+  border: none;
+  border-radius: 1.5rem;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  text-align: center;
+  font-size: 1.2rem;
+  outline: none;
+  font-weight: 600;
+}
+
+.search-box::-webkit-search-cancel-button {
+  position: relative;
+  right: 1.5rem;
+}
